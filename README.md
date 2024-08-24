@@ -79,3 +79,8 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 ## Hello everyone!
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
+
+## Hi!  
+I'm Khrystia, and I recently completed a course on Git. Now I feel much more confident using this tool. I learned about many useful commands that used to be a mystery to me, like rebase and checkout. At first, everything seemed complicated, but over time I understood how it actually simplifies the workflow. Now I’m ready to put this knowledge into practice and am sure it will be valuable for my future growth.  
+
+After completing the Git course, I realized how important it is to manage code versions effectively.
